@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+}
+header {
+    background-image: url(../images/header.jpg);
+    background-color: grey;
+}
+acide {
+    background-color: none;    
+}
+article {
+    background-color: none;
+}
+section {
+    background-image: url(../images/content.jpg);
+    background-color: darkgrey;
+}
+footer {
+    background-image: url(../images/footer_bg.jpg);
+    background-color: grey;
+}
+.citename {
+    font-family: Helvetica;
+    color: white;
+    font-size: 300%; 
+    font-weight: bold;
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+.ppage {
+    font-family: Helvetica;
+    color: grey;
+    font-size: 90%; 
+    font-weight: bold;
+    position: relative;
+    top: 15px; 
+    left: 45px; 
+}
+nav {
+    font-family: Helvetica;
+    color: white;
+    font-size: 100%; 
+    font-weight: bold;
+    position: relative;
+    top: -28px; 
+    left: 400px; 
+}
+h2 {
+    font-family: Helvetica;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+h3 {
+    font-family: Helvetica;
+    color:grey;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+nav-f {
+    font-family: Helvetica;
+    color: white;
+    font-size: 150%; 
+    font-weight: bold;
+    position: relative;
+    top: 30px; 
+    left: 30px; 
+}

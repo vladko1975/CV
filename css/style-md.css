@@ -1,0 +1,31 @@
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+header {
+    max-width: 1000px;
+    min-width: 500px;
+    height: 100px;
+    margin: 0 auto;
+}
+section {
+    max-width: 1000px;
+    min-width: 500px;
+}
+acide {
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+article {
+    height: 400px;
+}
+footer {
+    max-width: 1000px;
+    min-width: 500px;
+    height: 100px;
+    margin: 0 auto;
+}
+nav-f {
+  display: none;
+}

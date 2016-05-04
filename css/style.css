@@ -19,6 +19,13 @@ footer {
     background-image: url(../images/footer_bg.jpg);
     background-color: grey;
 }
+div.side-block { 	
+	float:left;
+	color: black; 		
+/*	width: 150px; 	*/
+	padding: 5px;		
+	margin: 5px;		
+	}
 .citename {
     font-family: Helvetica;
     color: white;
